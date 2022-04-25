@@ -1,0 +1,17 @@
+#main {
+  margin: auto;
+  width: 60%;
+  padding: 10px;
+}
+
+#image {
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  height: auto;
+  display: block;
+}
+
+#tribute-info {
+  margin-top: 50px;
+}
